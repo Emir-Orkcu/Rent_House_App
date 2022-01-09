@@ -1,1 +1,9 @@
-# Rent_House_App
+# Rent_House_App![Ekran Alıntısı](https://user-images.githubusercontent.com/54988806/148701631-b133519d-8bd2-40c0-9fbe-0ecb79220f04.JPG)
+![Screenshot_1641763610](https://user-images.githubusercontent.com/54988806/148701635-c98beaa6-19bf-43db-bad9-0445cc4d00e1.png)
+![Screenshot_1641763615](https://user-images.githubusercontent.com/54988806/148701645-a01ff418-b4a5-41d2-ba02-c50936667d1a.png)
+![Screenshot_1641763624](https://user-images.githubusercontent.com/54988806/148701647-37332e5e-f157-4fab-840e-9af0a816e54b.png)
+![Screenshot_1641763628](https://user-images.githubusercontent.com/54988806/148701649-ebf6158e-48e0-499a-9ca4-49f12ad89e8e.png)
+![Screenshot_1641763633](https://user-images.githubusercontent.com/54988806/148701653-ad6be1f0-3a68-483e-a602-1b16610ca66f.png)
+![Screenshot_1641763637](https://user-images.githubusercontent.com/54988806/148701657-d7e752e0-78bd-423e-a7f1-2e5660cf747e.png)
+![Screenshot_1641763640](https://user-images.githubusercontent.com/54988806/148701658-1d2910d7-7aaa-4a16-b49c-809c7e72888c.png)
+![Screenshot_1641763643](https://user-images.githubusercontent.com/54988806/148701659-7c1dddb7-1981-411d-a91c-6bea67953ff3.png)
